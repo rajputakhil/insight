@@ -1,1 +1,1 @@
-## Population Scale Sequencing of Whole Human Genomes: Data Management and Analysis
+## Population Scale Sequencing of Whole Human Genomes: Cloud Based Analysis, Scaling and Data Management
